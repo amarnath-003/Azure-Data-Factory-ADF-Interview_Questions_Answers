@@ -2,7 +2,6 @@
 Creating this repo to practice the ADF Scenario based questions
 
 
-```markdown
 # Azure Data Factory (ADF) Real-Time Scenario Practice Lab
 
 Welcome to the **Azure Data Factory Real-Time Ingestion & ETL Practice Lab**. This repository is dedicated to mastering Microsoft Azure Data Factory (ADF) by building end-to-end solutions for the top real-world data engineering scenarios. 
